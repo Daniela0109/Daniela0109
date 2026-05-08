@@ -1,5 +1,17 @@
-## Hi there 👋
+## Estudiante de software construyendo proyectos para aprender y mejorar.
 
+## Tecnologías
+- Python
+- PHP
+- MySQL
+- Firebase
+- JS
+- Android Studio
+
+  ## Currently learning
+- React
+- Arquitectura backend
+- Manejo de APIs y datos
 <!--
 **Daniela0109/Daniela0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
