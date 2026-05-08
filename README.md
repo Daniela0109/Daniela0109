@@ -8,7 +8,7 @@
 - JS
 - Android Studio
 
-  ## Currently learning
+  ## Aprendiendo
 - React
 - Arquitectura backend
 - Manejo de APIs y datos
